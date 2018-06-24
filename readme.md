@@ -107,6 +107,10 @@ Other actions:
 ![./img2txt/samples/chuyin.gif](./img2txt/samples/chuyin.gif)  ![./img2txt/samples/chuyin_out.gif](./img2txt/samples/chuyin_out.gif) 
 
 
+### TODO
++ 当前字符映射逻辑还不太合理，有待优化。
++ 项目中的图像对比度调节还没有做到自动化，有待优化。
+
 ## 其他精心设计的banner
 ### 女神
 ```py
