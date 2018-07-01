@@ -107,6 +107,8 @@ Other actions:
 2 还可以支持动画哦：`python img2text.py samples/chuyin.gif -w 100 -e 1.2`
 ![./img2txt/samples/chuyin.gif](./img2txt/samples/chuyin.gif)  ![./img2txt/samples/chuyin_out.gif](./img2txt/samples/chuyin_out.gif) 
 
+> 最近无意间发现了一个谷歌大佬写的项目： [gif-for-cli](https://github.com/google/gif-for-cli) 不仅支持gif，还支持视频格式转换为终端动画，而且还支持黑白和彩色，尝试发现处理效果非常优秀但是有点慢，不过很多技巧还是非常值得学习！
+
 
 ### TODO
 + 当前字符映射逻辑还不太合理，有待优化。
